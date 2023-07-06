@@ -15,3 +15,4 @@ jobs:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT_FOSSASIA_2023_DEMO }}"
           projectId: fossasia-2023-demo
+          expires: 1d
